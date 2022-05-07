@@ -1,0 +1,46 @@
+{"cars": [{
+    "id":1,
+    "carname": "Hyundai",
+    "year": 2016,
+    "transmission":"Manual",
+    "drivetrain":"FWD",
+    "color":"Grey",
+    "Isused": false
+  
+  },
+  {
+    "id":2,
+    "carname": "Honda",
+    "year": 2015,
+    "transmission":"Manual",
+    "drivetrain":"BWD",
+    "color":"Blue",
+    "Isused": true
+  },
+  {
+    "id":3,
+    "carname": "Toyota",
+    "year": 2020,
+    "transmission":"Automatic",
+    "drivetrain":"AWD",
+    "color":"yellow",
+    "Isused": false
+  },
+  {
+    "id":4,
+    "carname": "Lexus",
+    "year": 2018,
+    "transmission":"Manual",
+    "drivetrain":"AWD",
+    "color":"White",
+    "Isused": false
+  },
+  {
+    "id":5,
+    "carname": "BMW",
+    "year": 2022,
+    "transmission":"Automatic",
+    "drivetrain":"AWD",
+    "color":"Red",
+    "Isused": true
+  }]}
